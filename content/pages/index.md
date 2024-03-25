@@ -407,7 +407,7 @@ sections:
         textAlign: center
 seo:
   metaTitle: AutoForms
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: 'Quick, easy and secure paperwork completion'
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
