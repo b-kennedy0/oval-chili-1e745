@@ -9,9 +9,13 @@ sections:
       type: TitleBlock
     subtitle: Making paperwork a breeze
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quam
+      ligula, mattis sed lobortis ac, maximus nec sapien. Nam et tellus eu orci
+      varius lobortis eu interdum eros. Ut tincidunt ut orci nec pulvinar.
+      Maecenas posuere tempus arcu et hendrerit. Pellentesque a gravida justo,
+      nec mollis ex. Maecenas ullamcorper turpis sit amet ante auctor, vel
+      faucibus purus dictum. Donec dapibus fermentum tellus nec fringilla. Morbi
+      at felis non nisi consequat varius.
     actions:
       - label: Get started
         altText: ''
