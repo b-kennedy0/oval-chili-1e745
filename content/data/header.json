@@ -32,7 +32,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "About",
             "altText": "",
             "url": "/about-us",
             "showIcon": false,
