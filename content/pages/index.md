@@ -28,7 +28,7 @@ sections:
         type: Button
       - label: See Pricing
         altText: ''
-        url: /
+        url: /pricing
         showIcon: true
         icon: arrowRight
         iconPosition: right
