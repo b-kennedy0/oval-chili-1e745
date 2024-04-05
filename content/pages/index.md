@@ -46,7 +46,7 @@ sections:
         alignItems: center
     badge:
       type: Badge
-      label: ''
+      label: Making paperwork a breeze
       color: text-primary
   - type: GenericSection
     title:
