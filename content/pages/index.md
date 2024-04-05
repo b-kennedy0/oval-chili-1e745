@@ -121,7 +121,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Quick
-        subtitle: Completed paperwork in seconds
+        subtitle: Complete paperwork in seconds
         text: >
           One of AutoForm's best benefits is the time it will save you. You
           don't need to worry about using the latest version of the form, saving
