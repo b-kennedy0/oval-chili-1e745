@@ -73,8 +73,9 @@ sections:
       data protection rules.
 
 
-      Designed for mobile users. AutoForm can be used while on the go without
-      pinching to zoom and awkwardly move around complicated Word documents.
+      Mobile Friendly - Designed for mobile users. AutoForm can be used while on
+      the go without pinching to zoom and awkwardly move around complicated Word
+      documents.
 
 
       One of AutoForm's best benefits is the time it will save. You don't need
