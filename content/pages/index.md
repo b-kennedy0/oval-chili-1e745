@@ -101,7 +101,7 @@ sections:
           go without having to awkwardly pinch to zoom and move around
           complicated Word documents. 
         image:
-          url: /images/icon2.svg
+          url: /images/191.png
           altText: Mobile Icon
           elementId: ''
           type: ImageBlock
