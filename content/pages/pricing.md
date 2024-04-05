@@ -17,7 +17,7 @@ sections:
         description: |
           Full access to Auto Forms capabilities
         features:
-          - Feature one
+          - Home to Duty
           - Feature two
           - Feature three
           - Feature four
