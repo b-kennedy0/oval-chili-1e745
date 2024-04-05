@@ -30,23 +30,6 @@ sections:
         style: primary
         elementId: ''
         type: Link
-    media:
-      url: /images/ss-web-preview-page-a8fdb750234c483fd8e7210a06232dbc.png
-      altText: Iphone app
-      elementId: ''
-      type: ImageBlock
-      styles:
-        self:
-          padding:
-            - pt-0
-            - pl-0
-            - pb-0
-            - pr-0
-          margin:
-            - mt-56
-            - ml-56
-            - mb-56
-            - mr-56
     badge:
       label: ''
       color: text-primary
