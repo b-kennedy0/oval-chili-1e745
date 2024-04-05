@@ -43,7 +43,7 @@
         },
         {
             "label": "Log in",
-            "url": "/",
+            "url": "https://rafacautoform.saltcorn.com/auth/login",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
