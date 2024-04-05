@@ -80,12 +80,6 @@ sections:
       There is no need for guidance, documentation or training sessions.
       AutoForm is designed to be easy to use
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
