@@ -109,7 +109,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: center
+        alignItems: flex-start
         flexDirection: row-reverse
         padding:
           - pr-0
