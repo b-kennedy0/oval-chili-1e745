@@ -12,7 +12,7 @@ sections:
     subtitle: 'No contracts, No minimum subscription - Easy and Simple Pricing'
     plans:
       - title: Standard
-        price: Free
+        price: £1
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
