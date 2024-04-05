@@ -49,7 +49,7 @@ sections:
       type: TitleBlock
       text: Key Benefits
       color: text-dark
-    subtitle: Be in good company
+    subtitle: ''
     text: >
       Secure - Full data encryption - All of your personal information is
       secured with data encryption and processed in accordance with the latest
