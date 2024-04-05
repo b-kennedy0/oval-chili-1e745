@@ -35,6 +35,13 @@ sections:
       altText: Iphone app
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          padding:
+            - pt-12
+            - pl-12
+            - pb-12
+            - pr-12
     badge:
       label: ''
       color: text-primary
