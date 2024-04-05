@@ -97,6 +97,11 @@ sections:
                 - pb-8
                 - pl-8
                 - pr-8
+              margin:
+                - mt-8
+                - ml-8
+                - mb-8
+                - mr-8
           url: /images/61457.png
         tagline: ''
       - title: Mobile Friendly
