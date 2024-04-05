@@ -38,10 +38,10 @@ sections:
       styles:
         self:
           padding:
-            - pt-0
-            - pl-0
-            - pb-0
-            - pr-0
+            - pt-48
+            - pl-48
+            - pb-48
+            - pr-48
           margin:
             - mt-0
             - ml-0
