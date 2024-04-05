@@ -19,7 +19,7 @@ sections:
         features:
           - Home to Duty (2970 paper)
           - Other Travel (1771e)
-          - Feature three
+          - Volunteer Allowance (80e)
           - Feature four
         image:
           url: /images/abstract-feature1.svg
