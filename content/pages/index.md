@@ -8,7 +8,7 @@ sections:
       text: AutoForm
       color: text-dark
     subtitle: A paperwork completion service
-    text: |
+    text: |+
       Designed to be:
 
       *   Frustration-free
@@ -19,7 +19,6 @@ sections:
 
       *   Quick & Easy
 
-      What more could you want?
     actions:
       - type: Button
         label: Get started
