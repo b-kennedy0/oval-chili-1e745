@@ -129,7 +129,7 @@ sections:
           quickly, too!
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/3582.png
           altText: Lightning icon
           elementId: ''
           styles:
