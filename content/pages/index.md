@@ -122,10 +122,11 @@ sections:
       - type: FeaturedItem
         title: Quick
         subtitle: Completed paperwork in seconds
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          One of AutoForm's best benefits is the time it will save you. You
+          don't need to worry about using the latest version of the form, saving
+          copies of the documents, or fighting with form fields—all of that is
+          done for you, and quickly, too!
         image:
           type: ImageBlock
           url: /images/icon1.svg
