@@ -119,28 +119,6 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Easy
-        subtitle: Simple and Intuitive
-        text: >
-          There is no need for guidance, documentation or training sessions.
-          AutoForm is designed to be easy to use
-        image:
-          url: /images/665939.png
-          altText: Tick Icon
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
       - type: FeaturedItem
         title: Quick
         subtitle: Numbers Done
@@ -169,6 +147,28 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
+      - title: Easy
+        subtitle: Simple and Intuitive
+        text: >
+          There is no need for guidance, documentation or training sessions.
+          AutoForm is designed to be easy to use
+        image:
+          url: /images/665939.png
+          altText: Tick Icon
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
     actions:
       - label: Get started
         altText: ''
