@@ -135,6 +135,7 @@ sections:
           styles:
             self:
               borderRadius: x-small
+              borderWidth: 1
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
