@@ -55,7 +55,6 @@ sections:
           - >-
             A warm fuzzy feeling inside knowing you are supporting the
             development of AutoForm
-          - Feature four
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
