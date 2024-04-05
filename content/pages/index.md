@@ -130,7 +130,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/icon1.svg
-          altText: Placeholder text
+          altText: Lightning icon
           elementId: ''
           styles:
             self:
