@@ -243,6 +243,11 @@ sections:
           - pl-16
           - pr-16
         justifyContent: center
+        margin:
+          - mt-2
+          - ml-2
+          - mb-2
+          - mr-2
       subtitle:
         textAlign: center
   - type: DividerSection
