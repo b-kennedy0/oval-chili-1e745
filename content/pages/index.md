@@ -131,6 +131,13 @@ sections:
           altText: Mobile Icon
           elementId: ''
           type: ImageBlock
+          styles:
+            self:
+              padding:
+                - pt-2
+                - pl-2
+                - pb-2
+                - pr-2
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
