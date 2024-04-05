@@ -51,24 +51,39 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      Secure - Full data encryption - All of your personal information is
-      secured with data encryption and processed in accordance with the latest
-      data protection rules.
+      ###
+      ![](https://preview--oval-chili-1e745.stackbit.dev/_static/app-assets/public/images/614571.png)Secure
+      - Full data encryption
 
 
-      Mobile Friendly - Onthego - Designed for mobile users. AutoForm can be
-      used while on the go without pinching to zoom and awkwardly move around
-      complicated Word documents.
+      All of your personal information is secured with data encryption and
+      processed in accordance with the latest data protection rules.
 
 
-      Quick - Fast and reliable - One of AutoForm's best benefits is the time it
-      will save. You don't need to worry about using the latest version of the
-      form, saving copies, or fighting with form fields—all of that is done for
-      you, and quickly, too!
+      ###
+      ![](https://preview--oval-chili-1e745.stackbit.dev/_static/app-assets/public/images/1911.png)Mobile
+      Friendly - Use on the go 
 
 
-      Easy - Simple and Intuitive - There is no need for guidance, documentation
-      or training sessions. AutoForm is designed to be easy to use
+      Designed for mobile users. AutoForm can be used while on the go without
+      pinching to zoom and awkwardly move around complicated Word documents.
+
+
+      ###
+      ![](https://preview--oval-chili-1e745.stackbit.dev/_static/app-assets/public/images/35821.png)Quick
+      - Fast and reliable 
+
+
+      One of AutoForm's best benefits is the time it will save. You don't need
+      to worry about using the latest version of the form, saving copies, or
+      fighting with form fields—all of that is done for you, and quickly, too!
+
+
+      ### ![](/images/6659391.png)Easy - Simple and Intuitive 
+
+
+      There is no need for guidance, documentation or training sessions.
+      AutoForm is designed to be easy to use
     actions:
       - type: Button
         label: Get started
