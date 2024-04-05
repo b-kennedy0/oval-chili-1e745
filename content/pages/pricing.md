@@ -78,7 +78,7 @@ sections:
         type: PricingPlan
       - title: One-time Contribution
         price: Custom
-        details: ''
+        details: Donation
         description: >
           Don't need access to AutoForm but still want to contribute to the
           development?
