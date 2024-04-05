@@ -112,7 +112,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         padding:
-          - pr-5
+          - pr-0
   - type: DividerSection
     title: Divider
     elementId: ''
