@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome to AutoForms.co.uk
+      text: AutoForm
       color: text-dark
       type: TitleBlock
     subtitle: Making paperwork a breeze
