@@ -85,7 +85,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/AF Imgs-2.png
+      url: /images/AF Imgs-3.png
       altText: Dope design preview
     badge:
       type: Badge
