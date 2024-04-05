@@ -92,7 +92,7 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row-reverse
+            flexDirection: row
             justifyContent: center
             textAlign: left
             borderWidth: 0
