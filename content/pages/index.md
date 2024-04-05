@@ -42,6 +42,11 @@ sections:
             - pl-12
             - pb-12
             - pr-12
+          margin:
+            - mt-11
+            - ml-11
+            - mb-11
+            - mr-11
     badge:
       label: ''
       color: text-primary
