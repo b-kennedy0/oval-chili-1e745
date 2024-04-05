@@ -4,18 +4,13 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome to AutoForms.co.uk
+      text: AutoForm
       color: text-dark
       type: TitleBlock
     subtitle: Making paperwork a breeze
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quam
-      ligula, mattis sed lobortis ac, maximus nec sapien. Nam et tellus eu orci
-      varius lobortis eu interdum eros. Ut tincidunt ut orci nec pulvinar.
-      Maecenas posuere tempus arcu et hendrerit. Pellentesque a gravida justo,
-      nec mollis ex. Maecenas ullamcorper turpis sit amet ante auctor, vel
-      faucibus purus dictum. Donec dapibus fermentum tellus nec fringilla. Morbi
-      at felis non nisi consequat varius.
+      Automatic paperwork completion service. Frustration-free, mobile-friendly,
+      secure, quick & easy. What more can you want?
     actions:
       - label: Get started
         altText: ''
@@ -35,13 +30,8 @@ sections:
         style: primary
         elementId: ''
         type: Link
-    media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
@@ -49,12 +39,21 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row
+        flexDirection: col
         padding:
           - pt-16
           - pl-16
           - pb-16
           - pr-16
+        justifyContent: flex-start
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -63,46 +62,62 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Why use AutoForm?
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Secure
+        subtitle: Full data encryption
+        text: >
+          All of your personal information is secured with data encryption and
+          processed in accordance with the lates data protection rules.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
             textAlign: left
+            borderWidth: 0
+            margin:
+              - mt-0
+              - ml-0
+              - mb-0
+              - mr-0
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: Lock Icon
           elementId: ''
-          url: /images/icon1.svg
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+              padding:
+                - pt-0
+                - pb-0
+                - pl-0
+                - pr-0
+              margin:
+                - mt-0
+                - ml-0
+                - mb-0
+                - mr-0
+          url: /images/61457.png
+        tagline: ''
+      - title: Mobile Friendly
+        subtitle: On-the-go
+        text: >
+          Designed for mobile users. AutoForm can be used while on the go
+          without pinching to zoom and awkwardly move around complicated Word
+          documents.
         image:
-          url: /images/icon2.svg
-          altText: Featured icon two
+          url: /images/191.png
+          altText: Mobile Icon
           elementId: ''
           type: ImageBlock
         actions: []
@@ -119,15 +134,44 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - type: FeaturedItem
+        title: Quick
+        subtitle: Fast and reliable
+        text: >
+          One of AutoForm's best benefits is the time it will save. You don't
+          need to worry about using the latest version of the form, saving
+          copies, or fighting with form fields—all of that is done for you, and
+          quickly, too!
         image:
-          url: /images/icon3.svg
-          altText: Featured icon three
+          type: ImageBlock
+          url: /images/3582.png
+          altText: Lightning icon
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-small
+              borderWidth: 1
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - title: Easy
+        subtitle: Simple and Intuitive
+        text: >
+          There is no need for guidance, documentation or training sessions.
+          AutoForm is designed to be easy to use
+        image:
+          url: /images/665939.png
+          altText: Tick Icon
           elementId: ''
           type: ImageBlock
         actions: []
@@ -142,25 +186,9 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-    badge:
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
+    actions: []
     elementId: ''
-    variant: three-col-grid
+    variant: two-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
