@@ -46,9 +46,9 @@ sections:
       - title: Standard Plus
         price: £2
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Everything is as per 'Standard', but by selecting this plan, you
+          support the creator in continuing to develop the platform.
         features:
           - Feature one
           - Feature two
