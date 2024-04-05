@@ -44,7 +44,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Standard Plus
-        price: $99
+        price: £2
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
