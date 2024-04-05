@@ -5,20 +5,6 @@
         "type": "ImageBlock"
     },
     "text": "A description of your brand",
-    "secondaryLinks": {
-        "title": "",
-        "links": [
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [],
     "legalLinks": [
         {
