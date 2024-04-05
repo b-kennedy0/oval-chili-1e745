@@ -96,10 +96,10 @@ sections:
         tagline: ''
       - title: Mobile Friendly
         subtitle: On-the-go
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Designed with mobile users in mind, AutoForm can be used while on the
+          go without having to awkwardly pinch to zoom and move around
+          complicated Word documents. 
         image:
           url: /images/icon2.svg
           altText: Featured icon two
