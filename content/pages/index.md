@@ -9,13 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Making paperwork a breeze
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quam
-      ligula, mattis sed lobortis ac, maximus nec sapien. Nam et tellus eu orci
-      varius lobortis eu interdum eros. Ut tincidunt ut orci nec pulvinar.
-      Maecenas posuere tempus arcu et hendrerit. Pellentesque a gravida justo,
-      nec mollis ex. Maecenas ullamcorper turpis sit amet ante auctor, vel
-      faucibus purus dictum. Donec dapibus fermentum tellus nec fringilla. Morbi
-      at felis non nisi consequat varius.
+      Automatic paperwork completion service. Frustration-free, mobile-friendly,
+      secure, quick & easy. What more can you want?
     actions:
       - label: Get started
         altText: ''
