@@ -45,6 +45,17 @@ sections:
       type: Badge
       label: Making paperwork a breeze
       color: text-primary
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: GenericSection
     title:
       type: TitleBlock
@@ -104,17 +115,6 @@ sections:
           - mt-1
           - ml-1
           - mb-1
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
 seo:
   metaTitle: AutoForms
   metaDescription: 'Quick, easy and secure paperwork completion'
