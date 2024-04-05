@@ -171,13 +171,6 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions: []
-    badge:
-      label: ''
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
