@@ -68,8 +68,9 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      All of your personal information is secured with data encryption and
-      processed in accordance with the latest data protection rules.
+      Secure - Full data encryption - All of your personal information is
+      secured with data encryption and processed in accordance with the latest
+      data protection rules.
 
 
       Designed for mobile users. AutoForm can be used while on the go without
@@ -79,8 +80,6 @@ sections:
       One of AutoForm's best benefits is the time it will save. You don't need
       to worry about using the latest version of the form, saving copies, or
       fighting with form fields—all of that is done for you, and quickly, too!
-
-
 
 
       There is no need for guidance, documentation or training sessions.
