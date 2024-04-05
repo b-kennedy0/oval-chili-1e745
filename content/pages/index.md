@@ -68,10 +68,9 @@ sections:
       - type: FeaturedItem
         title: Secure
         subtitle: Full data encryption
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          All of your personal information is secured with data encryption and
+          processed in accordance with the lates data protection rules.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
