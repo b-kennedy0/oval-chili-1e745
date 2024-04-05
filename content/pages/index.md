@@ -79,14 +79,7 @@ sections:
 
       There is no need for guidance, documentation or training sessions.
       AutoForm is designed to be easy to use
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/AF Imgs-3.png
