@@ -89,7 +89,6 @@ sections:
 
           Second, click below
         features:
-          - Feature three
           - Feature four
           - Feature five
         image:
