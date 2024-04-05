@@ -56,7 +56,7 @@ sections:
             A warm fuzzy feeling inside knowing you are supporting the
             development of AutoForm
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/5.png
           altText: Pricing plan 2
           type: ImageBlock
         actions:
