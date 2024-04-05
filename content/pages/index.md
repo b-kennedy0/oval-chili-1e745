@@ -59,8 +59,6 @@ sections:
       processed in accordance with the latest data protection rules.
 
 
-
-
       ### Mobile Friendly - Use on the go
 
 
@@ -68,9 +66,7 @@ sections:
       pinching to zoom and awkwardly move around complicated Word documents.
 
 
-
-
-      ### Quick - Fast and reliable
+      ### ![](/images/358211.png)Quick - Fast and reliable
 
 
       One of AutoForm's best benefits is the time it will save. You don't need
