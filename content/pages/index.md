@@ -180,6 +180,11 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
+            margin:
+              - mt-1
+              - ml-1
+              - mb-1
+              - mr-1
       - title: Easy
         subtitle: Simple and Intuitive
         text: >
