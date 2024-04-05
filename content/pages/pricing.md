@@ -81,11 +81,10 @@ sections:
         details: ''
         description: >
           Don't need access to AutoForm but still want to contribute to the
-          development? 
+          development?
 
 
           First of all, wow! Thank you!!
-
 
           Second, click below
         features: []
