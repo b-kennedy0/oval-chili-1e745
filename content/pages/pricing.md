@@ -51,7 +51,7 @@ sections:
           support the creator in continuing to develop the platform.
         features:
           - All the features of Standard Plan
-          - Feature two
+          - Access to direct email support
           - Feature three
           - Feature four
         image:
