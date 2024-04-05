@@ -83,7 +83,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/AF Imgs-3.png
-      altText: Dope design preview
+      altText: Paperwork img
     badge:
       type: Badge
       label: Why choose AutoForm?
