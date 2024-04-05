@@ -9,8 +9,6 @@ sections:
       color: text-dark
     subtitle: ''
     text: |
-      AutoForm is a paperwork completion service.
-
       Designed to be:
 
       *   Frustration-free
