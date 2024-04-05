@@ -15,7 +15,7 @@ sections:
         price: £1
         details: per month
         description: |
-          Full access to Auto Forms capabilities
+          Full access to AutoForm capabilities
         features:
           - Home to Duty (2970 paper)
           - Other Travel (1771e)
