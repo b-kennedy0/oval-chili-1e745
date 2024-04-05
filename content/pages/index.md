@@ -31,7 +31,7 @@ sections:
         style: secondary
       - type: Link
         label: See Pricing
-        url: /
+        url: /pricing
         showIcon: true
         icon: arrowRight
         iconPosition: right
