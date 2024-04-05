@@ -18,7 +18,7 @@ sections:
           Full access to Auto Forms capabilities
         features:
           - Home to Duty (2970 paper)
-          - Other Travel (1771e(
+          - Other Travel (1771e)
           - Feature three
           - Feature four
         image:
