@@ -22,7 +22,7 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: /
+        url: 'https://rafacautoform.saltcorn.com'
         icon: arrowRight
         iconPosition: right
         style: secondary
@@ -83,7 +83,7 @@ sections:
       - type: Button
         label: Get started
         altText: ''
-        url: /
+        url: 'https://rafacautoform.saltcorn.com'
         showIcon: false
         icon: arrowRight
         iconPosition: right

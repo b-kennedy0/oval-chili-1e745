@@ -28,7 +28,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Get Started
-            url: /
+            url: 'https://rafacautoform.saltcorn.com'
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -61,7 +61,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Get Started
-            url: /
+            url: 'https://rafacautoform.saltcorn.com'
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -96,7 +96,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Make Donation
-            url: /
+            url: 'https://pay.bradleykennedy.co.uk'
             icon: arrowRight
             iconPosition: right
             style: secondary

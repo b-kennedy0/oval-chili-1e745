@@ -35,7 +35,7 @@
         {
             "label": "Sign up",
             "altText": "Sign up",
-            "url": "/",
+            "url": "https://rafacautoform.saltcorn.com/auth/signup",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -43,7 +43,7 @@
         },
         {
             "label": "Log in",
-            "url": "/",
+            "url": "https://rafacautoform.saltcorn.com/auth/login",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
