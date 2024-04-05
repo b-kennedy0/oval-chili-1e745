@@ -93,10 +93,10 @@ sections:
             self:
               borderRadius: x-large
               padding:
-                - pt-8
-                - pb-8
-                - pl-8
-                - pr-8
+                - pt-0
+                - pb-0
+                - pl-0
+                - pr-0
               margin:
                 - mt-8
                 - ml-8
