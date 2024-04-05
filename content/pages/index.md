@@ -30,7 +30,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
+        label: See Pricing
         url: /
         showIcon: true
         icon: arrowRight
