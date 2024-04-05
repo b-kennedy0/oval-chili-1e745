@@ -52,21 +52,21 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      ### ![](/images/6145711.png) Secure - Full data encryption
+      ##### ![](/images/6145711.png)Secure - Full data encryption
 
 
       All of your personal information is secured with data encryption and
       processed in accordance with the latest data protection rules.
 
 
-      ### Mobile Friendly - Use on the go
+      ##### ![](/images/19111.png)Mobile Friendly - Use on the go
 
 
       Designed for mobile users. AutoForm can be used while on the go without
       pinching to zoom and awkwardly move around complicated Word documents.
 
 
-      ### ![](/images/358211.png)Quick - Fast and reliable
+      ##### ![](/images/358211.png)Quick - Fast and reliable
 
 
       One of AutoForm's best benefits is the time it will save. You don't need
@@ -74,7 +74,7 @@ sections:
       fighting with form fields—all of that is done for you, and quickly, too!
 
 
-      ### ![](/images/66593911.png)Easy - Simple and Intuitive
+      ##### ![](/images/66593911.png)Easy - Simple and Intuitive
 
 
       There is no need for guidance, documentation or training sessions.
