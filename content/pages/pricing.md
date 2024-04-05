@@ -52,7 +52,9 @@ sections:
         features:
           - All the features of Standard Plan
           - Access to direct email support
-          - Feature three
+          - >-
+            A warm fuzzy feeling inside knowing you are supporting the
+            development of AutoForm
           - Feature four
         image:
           url: /images/abstract-feature2.svg
