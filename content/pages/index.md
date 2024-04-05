@@ -70,6 +70,12 @@ sections:
     text: >
       All of your personal information is secured with data encryption and
       processed in accordance with the lates data protection rules.
+
+
+
+
+      Designed for mobile users. AutoForm can be used while on the go without
+      pinching to zoom and awkwardly move around complicated Word documents.
     actions:
       - type: Button
         label: Get started
