@@ -61,7 +61,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Get Started
-            url: /
+            url: 'https://rafacautoform.saltcorn.com'
             icon: arrowRight
             iconPosition: right
             style: secondary
