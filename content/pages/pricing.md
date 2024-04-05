@@ -79,9 +79,15 @@ sections:
       - title: One-time Contribution
         price: Custom
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          Don't need access to AutoForm but still want to contribute to the
+          development? 
+
+
+          First of all, wow! Thank you!!
+
+
+          Second, click below
         features:
           - Feature one
           - Feature two
