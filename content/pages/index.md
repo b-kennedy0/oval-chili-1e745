@@ -94,7 +94,7 @@ sections:
               borderRadius: x-large
           url: /images/61457.png
         tagline: ''
-      - title: 20x
+      - title: Mobile Friendly
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
