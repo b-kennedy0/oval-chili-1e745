@@ -98,10 +98,10 @@ sections:
                 - pl-0
                 - pr-0
               margin:
-                - mt-8
-                - ml-8
-                - mb-8
-                - mr-8
+                - mt-0
+                - ml-0
+                - mb-0
+                - mr-0
           url: /images/61457.png
         tagline: ''
       - title: Mobile Friendly
