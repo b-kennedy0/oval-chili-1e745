@@ -59,7 +59,7 @@ sections:
         justifyContent: flex-start
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/AF Imgs.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
