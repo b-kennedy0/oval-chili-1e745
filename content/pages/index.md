@@ -115,7 +115,7 @@ sections:
           - pr-0
         justifyContent: center
         margin:
-          - mr-5
+          - mr-0
   - type: DividerSection
     title: Divider
     elementId: ''
