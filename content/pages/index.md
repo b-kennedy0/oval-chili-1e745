@@ -97,10 +97,10 @@ sections:
             textAlign: left
             borderWidth: 0
             margin:
-              - mt-10
-              - ml-10
-              - mb-10
-              - mr-10
+              - mt-1
+              - ml-1
+              - mb-1
+              - mr-1
         image:
           type: ImageBlock
           altText: Lock Icon
