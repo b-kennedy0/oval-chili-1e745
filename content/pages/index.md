@@ -8,9 +8,20 @@ sections:
       text: AutoForm
       color: text-dark
     subtitle: Making paperwork a breeze
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      AutoForm is a paperwork completion service.
+
+      Designed to be:
+
+      *   Frustration-free
+
+      *   Mobile-friendly
+
+      *   Secure
+
+      *   Quick & Easy
+
+      What more could you want?
     actions:
       - type: Button
         label: Get started
