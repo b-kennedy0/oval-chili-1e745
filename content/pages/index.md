@@ -84,8 +84,8 @@ sections:
       you, and quickly, too!
 
 
-      There is no need for guidance, documentation or training sessions.
-      AutoForm is designed to be easy to use
+      Easy - Simple and Intuitive - There is no need for guidance, documentation
+      or training sessions. AutoForm is designed to be easy to use
     actions:
       - type: Button
         label: Get started
