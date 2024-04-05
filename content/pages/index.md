@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: AutoForm
       color: text-dark
-    subtitle: Making paperwork a breeze
+    subtitle: ''
     text: |
       AutoForm is a paperwork completion service.
 
