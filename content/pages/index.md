@@ -144,6 +144,11 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
+            margin:
+              - mt-1
+              - ml-1
+              - mb-1
+              - mr-1
         type: FeaturedItem
       - type: FeaturedItem
         title: Quick
