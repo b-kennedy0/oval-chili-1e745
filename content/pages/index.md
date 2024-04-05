@@ -72,10 +72,15 @@ sections:
       processed in accordance with the lates data protection rules.
 
 
-
-
       Designed for mobile users. AutoForm can be used while on the go without
       pinching to zoom and awkwardly move around complicated Word documents.
+
+
+
+
+      One of AutoForm's best benefits is the time it will save. You don't need
+      to worry about using the latest version of the form, saving copies, or
+      fighting with form fields—all of that is done for you, and quickly, too!
     actions:
       - type: Button
         label: Get started
