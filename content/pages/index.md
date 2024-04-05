@@ -113,6 +113,7 @@ sections:
         flexDirection: row-reverse
         padding:
           - pr-0
+        justifyContent: center
   - type: DividerSection
     title: Divider
     elementId: ''
