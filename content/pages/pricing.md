@@ -3,31 +3,31 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Pricing
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: 'No contracts, No minimum subscription - Easy and Simple Pricing'
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - title: Standard
+        price: £1
+        details: per month
+        description: |
+          Full access to AutoForm capabilities
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Home to Duty (2970 paper)
+          - Other Travel (1771e)
+          - Volunteer Allowance (80e)
+          - No Adverts
+          - Ticket-based Customer Support
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/2.png
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Get Started
             url: /
             icon: arrowRight
             iconPosition: right
@@ -43,23 +43,24 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
-        price: $99
+      - title: Standard Plus
+        price: £2
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Everything is as per 'Standard', but by selecting this plan, you
+          support the creator in continuing to develop the platform.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - All the features of Standard Plan
+          - Access to direct email support
+          - >-
+            A warm fuzzy feeling inside knowing you are supporting the
+            development of AutoForm
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/5.png
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Get Started
             url: /
             icon: arrowRight
             iconPosition: right
@@ -75,24 +76,26 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
+      - title: One-time Contribution
         price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+        details: You choose the amount
+        description: >
+          Don't need access to AutoForm but still want to contribute to the
+          development?
+
+
+          First of all, wow! Thank you!!
+
+
+
+          Second, click below
+        features: []
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/6.png
           altText: Pricing plan 3
           type: ImageBlock
         actions:
-          - label: Contact us
+          - label: Make Donation
             url: /
             icon: arrowRight
             iconPosition: right
