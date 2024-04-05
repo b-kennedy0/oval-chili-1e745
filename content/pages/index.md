@@ -206,6 +206,11 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            margin:
+              - mt-1
+              - ml-1
+              - mb-1
+              - mr-1
         type: FeaturedItem
     actions: []
     elementId: ''
