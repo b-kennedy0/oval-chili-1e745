@@ -94,6 +94,7 @@ sections:
               borderRadius: x-large
               padding:
                 - pt-8
+                - pb-8
           url: /images/61457.png
         tagline: ''
       - title: Mobile Friendly
