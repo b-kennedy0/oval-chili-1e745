@@ -97,9 +97,9 @@ sections:
       - title: Mobile Friendly
         subtitle: On-the-go
         text: >
-          Designed with mobile users in mind, AutoForm can be used while on the
-          go without having to awkwardly pinch to zoom and move around
-          complicated Word documents. 
+          Designed for mobile users. AutoForm can be used while on the go
+          without pinching to zoom and awkwardly move around complicated Word
+          documents.
         image:
           url: /images/191.png
           altText: Mobile Icon
