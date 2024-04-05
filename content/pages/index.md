@@ -86,6 +86,11 @@ sections:
             justifyContent: center
             textAlign: left
             borderWidth: 0
+            margin:
+              - mt-8
+              - ml-8
+              - mb-8
+              - mr-8
         image:
           type: ImageBlock
           altText: Lock Icon
