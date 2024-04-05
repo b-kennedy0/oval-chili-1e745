@@ -32,7 +32,7 @@ sections:
         type: Link
     media:
       url: /images/ss-web-preview-page-a8fdb750234c483fd8e7210a06232dbc.png
-      altText: Unblock your team boost your time to production preview
+      altText: Iphone app
       elementId: ''
       type: ImageBlock
     badge:
