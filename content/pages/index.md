@@ -83,7 +83,7 @@ sections:
       - type: Button
         label: Get started
         altText: ''
-        url: /
+        url: 'https://rafacautoform.saltcorn.com'
         showIcon: false
         icon: arrowRight
         iconPosition: right
