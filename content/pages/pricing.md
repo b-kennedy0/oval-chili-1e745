@@ -88,8 +88,7 @@ sections:
 
 
           Second, click below
-        features:
-          - Feature five
+        features: []
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
