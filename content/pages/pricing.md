@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: 'No contracts, No minimum subscription - Easy and Simple Pricing'
     plans:
-      - title: Developers
+      - title: Standard
         price: Free
         details: No credit card required
         description: >-
