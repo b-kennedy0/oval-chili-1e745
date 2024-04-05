@@ -112,7 +112,10 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         padding:
-          - pr-0
+          - pr-1
+          - pt-1
+          - pl-1
+          - pb-1
         justifyContent: center
         margin:
           - mr-1
