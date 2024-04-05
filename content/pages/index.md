@@ -150,7 +150,7 @@ sections:
           styles:
             self:
               borderRadius: x-small
-              borderWidth: 1
+              borderWidth: 0
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
