@@ -121,7 +121,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Quick
-        subtitle: Numbers Done
+        subtitle: Completed paperwork in seconds
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
