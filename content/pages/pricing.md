@@ -14,9 +14,8 @@ sections:
       - title: Standard
         price: £1
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Full access to Auto Forms capabilities
         features:
           - Feature one
           - Feature two
