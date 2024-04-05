@@ -8,8 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Making paperwork a breeze
-    text: |+
-      AutoForm is a paperwork completion service. 
+    text: |
+      > AutoForm is a paperwork completion service.
 
       Designed to be:
 
@@ -17,12 +17,11 @@ sections:
 
       *   Mobile-friendly
 
-      *   Secure 
+      *   Secure
 
       *   Quick & Easy
 
       What more could you want?
-
     actions:
       - label: Get started
         altText: ''
