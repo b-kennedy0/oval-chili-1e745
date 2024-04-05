@@ -125,7 +125,7 @@ sections:
           There is no need for guidance, documentation or training sessions.
           AutoForm is designed to be easy to use
         image:
-          url: /images/icon3.svg
+          url: /images/665939.png
           altText: Tick Icon
           elementId: ''
           type: ImageBlock
