@@ -44,6 +44,10 @@ sections:
     styles:
       self:
         alignItems: center
+    badge:
+      type: Badge
+      label: Making paperwork a breeze
+      color: text-primary
   - type: GenericSection
     title:
       type: TitleBlock
