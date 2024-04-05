@@ -167,6 +167,11 @@ sections:
             self:
               borderRadius: x-small
               borderWidth: 0
+              padding:
+                - pt-2
+                - pl-2
+                - pb-2
+                - pr-2
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
