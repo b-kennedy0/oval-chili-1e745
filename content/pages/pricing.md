@@ -20,7 +20,7 @@ sections:
           - Home to Duty (2970 paper)
           - Other Travel (1771e)
           - Volunteer Allowance (80e)
-          - Feature four
+          - No Adverts
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
