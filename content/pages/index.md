@@ -102,7 +102,7 @@ sections:
           complicated Word documents. 
         image:
           url: /images/icon2.svg
-          altText: Featured icon two
+          altText: Mobile Icon
           elementId: ''
           type: ImageBlock
         actions: []
