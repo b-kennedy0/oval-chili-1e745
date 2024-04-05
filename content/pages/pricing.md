@@ -76,7 +76,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: One-Off Contribution
+      - title: One-time Contribution
         price: Custom
         details: per month
         description: >-
