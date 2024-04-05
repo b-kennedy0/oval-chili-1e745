@@ -82,7 +82,7 @@ sections:
               - pb-24
               - pr-24
             borderRadius: x-large
-            flexDirection: row-reverse
+            flexDirection: row
             justifyContent: center
             textAlign: left
             borderWidth: 0
