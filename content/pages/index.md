@@ -126,7 +126,7 @@ sections:
           AutoForm is designed to be easy to use
         image:
           url: /images/icon3.svg
-          altText: Featured icon three
+          altText: Tick Icon
           elementId: ''
           type: ImageBlock
         actions: []
