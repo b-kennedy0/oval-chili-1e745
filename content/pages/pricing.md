@@ -91,7 +91,7 @@ sections:
           Second, click below
         features: []
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/6.png
           altText: Pricing plan 3
           type: ImageBlock
         actions:
