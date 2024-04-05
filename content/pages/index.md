@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Making paperwork a breeze
     text: |
-      > AutoForm is a paperwork completion service.
+      AutoForm is a paperwork completion service.
 
       Designed to be:
 
