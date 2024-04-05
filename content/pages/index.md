@@ -92,6 +92,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+          url: /images/61457.png
         tagline: ''
       - title: 20x
         subtitle: The Job Stuff
