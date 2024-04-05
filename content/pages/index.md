@@ -110,7 +110,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row-reverse
+        flexDirection: col-reverse
         padding:
           - pr-0
         justifyContent: center
