@@ -89,7 +89,6 @@ sections:
 
           Second, click below
         features:
-          - Feature four
           - Feature five
         image:
           url: /images/abstract-feature3.svg
