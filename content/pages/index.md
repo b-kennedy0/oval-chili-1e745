@@ -123,10 +123,10 @@ sections:
         title: Quick
         subtitle: Fast and reliable
         text: >
-          One of AutoForm's best benefits is the time it will save you. You
-          don't need to worry about using the latest version of the form, saving
-          copies of the documents, or fighting with form fields—all of that is
-          done for you, and quickly, too!
+          One of AutoForm's best benefits is the time it will save. You don't
+          need to worry about using the latest version of the form, saving
+          copies, or fighting with form fields—all of that is done for you, and
+          quickly, too!
         image:
           type: ImageBlock
           url: /images/icon1.svg
