@@ -1,10 +1,5 @@
 {
-    "logo": {
-        "url": "/images/logo-white.svg",
-        "altText": "Logo light",
-        "type": "ImageBlock"
-    },
-    "text": "A description of your brand",
+    "text": "",
     "socialLinks": [],
     "legalLinks": [
         {
@@ -24,8 +19,8 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "",
+    "copyrightText": "Copyright © [Kennedy](https://bradk.co.uk) 2024\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer",
-    "title": "Title Here"
+    "title": ""
 }
