@@ -94,7 +94,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        tagline: Personal Data
+        tagline: ''
       - title: 20x
         subtitle: The Job Stuff
         text: >-
