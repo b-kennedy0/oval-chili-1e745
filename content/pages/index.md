@@ -95,7 +95,7 @@ sections:
           url: /images/61457.png
         tagline: ''
       - title: Mobile Friendly
-        subtitle: The Job Stuff
+        subtitle: On-the-go
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
