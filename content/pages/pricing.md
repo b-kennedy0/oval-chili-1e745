@@ -96,7 +96,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Make Donation
-            url: /
+            url: 'https://pay.bradleykennedy.co.uk'
             icon: arrowRight
             iconPosition: right
             style: secondary
