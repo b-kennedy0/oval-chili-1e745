@@ -39,7 +39,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/AF Imgs.png
-      altText: Fun feature preview
+      altText: Automating paperwork image
     colors: bg-light-fg-dark
     styles:
       self:
