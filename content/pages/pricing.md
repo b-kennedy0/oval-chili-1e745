@@ -50,7 +50,7 @@ sections:
           Everything is as per 'Standard', but by selecting this plan, you
           support the creator in continuing to develop the platform.
         features:
-          - Feature one
+          - All the features of Standard Plan
           - Feature two
           - Feature three
           - Feature four
