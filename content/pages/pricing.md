@@ -21,6 +21,7 @@ sections:
           - Other Travel (1771e)
           - Volunteer Allowance (80e)
           - No Adverts
+          - ''
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
