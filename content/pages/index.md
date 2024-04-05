@@ -9,8 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Making paperwork a breeze
     text: >
-      Automatic paperwork completion service. Frustration-free, mobile-friendly,
-      secure, quick & easy. What more can you want?
+      Automatic paperwork completion. 
+
+
+      Frustration-free, mobile-friendly, secure, quick & easy. What more can you
+      want?
     actions:
       - label: Get started
         altText: ''
