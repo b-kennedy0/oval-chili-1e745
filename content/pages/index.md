@@ -121,10 +121,9 @@ sections:
         type: FeaturedItem
       - title: Easy
         subtitle: Simple and Intuitive
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          There is no need for guidance, documentation or training sessions.
+          AutoForm is designed to be easy to use
         image:
           url: /images/icon3.svg
           altText: Featured icon three
