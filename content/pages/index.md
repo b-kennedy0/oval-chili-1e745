@@ -68,8 +68,8 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      All of your personal information is secured with data encryption and
+      processed in accordance with the lates data protection rules.
     actions:
       - type: Button
         label: Get started
